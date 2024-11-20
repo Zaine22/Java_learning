@@ -1,0 +1,13 @@
+package throwException;
+
+import java.io.File;
+
+public class MyReader {
+
+	public void read(File file) {
+		
+		if(file.exists()) {
+			
+		}
+	}
+}

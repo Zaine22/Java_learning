@@ -1,0 +1,8 @@
+package throwException;
+
+public class MyReader {
+
+	public void read() {
+		
+	}
+}

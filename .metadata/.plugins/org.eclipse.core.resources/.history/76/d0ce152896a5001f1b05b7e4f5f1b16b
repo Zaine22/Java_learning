@@ -1,0 +1,12 @@
+package throwException;
+
+import java.io.File;
+
+public class App {
+
+	public static void main(String[] args) {
+		File file = new File("/Users/zaine/Desktop/hello.rtf");
+		
+		Reader reader = new Reader();
+	}
+}

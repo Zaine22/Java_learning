@@ -1,0 +1,5 @@
+package throwException;
+
+public class MyReader {
+
+}

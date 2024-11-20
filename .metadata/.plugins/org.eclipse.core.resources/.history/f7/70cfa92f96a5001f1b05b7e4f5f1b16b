@@ -1,0 +1,15 @@
+package throwException;
+
+import java.io.File;
+import java.io.Reader;
+
+public class App {
+
+	public static void main(String[] args) {
+		File file = new File("/Users/zaine/Desktop/hello.rtf");
+		
+		MYReader reader = new MyReader();
+		
+		reader.read(file);
+	}
+}

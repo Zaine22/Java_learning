@@ -1,0 +1,15 @@
+package throwException;
+
+import java.io.File;
+
+public class MyReader {
+
+	public void read(File file) {
+		
+		if(file.exists()) {
+			System.out.println("File exist");
+		} else {
+			
+		}
+	}
+}

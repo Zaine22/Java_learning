@@ -1,0 +1,17 @@
+package demo2;
+
+import java.io.File;
+
+public class App {
+
+	public static void main(String[] args) {
+	
+
+	}
+	
+	public static void readFile(File file) {
+		Scanner sc = new Scanner();
+
+	}
+
+}

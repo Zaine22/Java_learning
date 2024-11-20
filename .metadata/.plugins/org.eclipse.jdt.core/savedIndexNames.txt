@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+/Users/zaine/Documents/JAVA/Learning/.metadata/.plugins/org.eclipse.jdt.core
+659758006.index
+1865797976.index
+2824089757.index
+122026228.index

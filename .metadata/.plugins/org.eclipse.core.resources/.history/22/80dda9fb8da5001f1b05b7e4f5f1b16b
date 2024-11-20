@@ -1,0 +1,21 @@
+package demo1;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+
+public class App {
+	public static void main(String[] args) {
+		
+		File file = new File("/Users/zaine/Desktop/hellos.rtf");
+		try {
+			Scanner sc = new Scanner(file);
+			System.out.println("File exits");
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			System.out.println("File no found");
+			e.printStackTrace();
+		}
+	}
+
+}
